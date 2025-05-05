@@ -29,13 +29,6 @@
 - Train Linear and RBF SVMs on training data
 - Evaluation
 
-### 1. Use confusion matrix and classification report
-### 2. Visualize some digit samples (optional)
-### 3. Hyperparameter Tuning
-### 4.Tune C and gamma using GridSearchCV
-### 5-fold cross-validation for robust search
-### Cross-Validation: Evaluate best model using cross-validation accuracy
-
 ## Results
 - Both Linear and RBF SVMs perform well on this binary classification task
 - RBF kernel generally shows better performance after tuning
